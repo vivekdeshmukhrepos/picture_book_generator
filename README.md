@@ -18,7 +18,7 @@ Powered by:
 ## 🗂 Project Structure
 
 ```
-├── story_generation/
+├── picture_book_generator/
 │   config.py
 │   main.py
 │   README.md
@@ -39,8 +39,7 @@ Powered by:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-picture-book-generator.git
-cd story_generation
+git clone https://github.com/vivekdeshmukhrepos/picture_book_generator.git
 
 pip install -r requirements.txt
 ```
@@ -74,22 +73,14 @@ python main.py
 
 You can print it, share it, or turn it into a real children's book!
 
-## 🧰 Tech Stack
-OpenAI (GPT-3.5/4) — For outline, story text, and image prompts
+## 💡 Why I Built This
+ 
+- AI has incredible potential in education and storytelling. Imagine empowering:
 
-Stability AI — For realistic, style-consistent illustrations
+- Children to turn their ideas into real books
 
-FPDF (Python) — For layouting and PDF generation
+- Teachers to generate engaging reading material
 
-Python modules like requests, uuid, os
+- Hobbyists and parents to co-create with their kids
 
-💡 Why I Built This
-AI has incredible potential in education and storytelling. Imagine empowering:
-
-Children to turn their ideas into real books
-
-Teachers to generate engaging reading material
-
-Hobbyists and parents to co-create with their kids
-
-This project is a small, fun step in that direction.
+- This project is a small, fun step in that direction.
