@@ -1,4 +1,4 @@
-# 🧠📚 AI Picture Book Generator
+# AI Picture Book Generator
 
 Turn a story idea into a fully illustrated picture book using Generative AI (LLMs + Text-to-Image models). This Python project lets you input a story title and number of pages — and outputs a beautiful PDF with AI-generated images and text on each page.
 
@@ -72,15 +72,5 @@ python main.py
 ```
 
 You can print it, share it, or turn it into a real children's book!
-
-## 💡 Why I Built This
  
-- AI has incredible potential in education and storytelling. Imagine empowering:
 
-- Children to turn their ideas into real books
-
-- Teachers to generate engaging reading material
-
-- Hobbyists and parents to co-create with their kids
-
-- This project is a small, fun step in that direction.
