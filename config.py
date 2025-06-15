@@ -9,7 +9,7 @@ OPENAI_API_KEY ="sk-proj-Key"
 LLM_MODEL = "gpt-4"
 
 # Stable Diffusion or image generation model endpoint or API key
-IMAGE_API_KEY = "Image_Key"
+IMAGE_API_KEY = "Image_Key_Test"
 
 # Directory to save generated images
 IMAGE_OUTPUT_DIR = "assets/images"
